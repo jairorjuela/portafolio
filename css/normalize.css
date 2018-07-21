@@ -29,3 +29,11 @@ h4 {
 .span2 {
   color: #DCD0C0;
 }
+
+@media (max-width: 575.98px) {
+.display-1 {
+font-size: 6rem;
+font-weight: 300;
+line-height: 1.0;
+}
+}
