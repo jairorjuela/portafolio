@@ -1,0 +1,31 @@
+body {
+     margin:0;
+     padding:0;
+     font-family:verdana;
+     background:#373737;
+   }
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: #F4F4F4;
+  font-family: 'Inconsolata', monospace;
+}
+
+h3 {
+  color: #DCD0C0;
+}
+
+h4 {
+  color: red;
+}
+
+.span1 {
+  color: #C0B283;
+}
+
+.span2 {
+  color: #DCD0C0;
+}
